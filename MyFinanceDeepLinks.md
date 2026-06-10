@@ -23,6 +23,7 @@ professional in responses.
 
 ## Account
 - Account statement → [Statements](https://secure.chase.com/web/auth/nav?navKey=requestStatementsAndDocuments&documentType=STATEMENTS&mode=documents)
+- Pay and transfer dashboard → [Pay & Transfer](https://secure.chase.com/web/auth/nav?navKey=reviewPayAndTransferDashboard)
 
 ## Support
 - If user asks about account issues → escalate

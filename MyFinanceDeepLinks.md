@@ -13,7 +13,7 @@ professional in responses.
 
 ## Payments
 - Send money → [Send Money via Zelle](https://secure.chase.com/web/auth/nav?navKey=managePersonToPersonTransferSendMoney)
-- Request money → myapp://payments/request
+- Request money → [Request Money via Zelle](https://secure.chase.com/web/auth/nav?navKey=managePersonToPersonTransferRequestMoney)
 - Pay bills → myapp://bills/pay
 - Scan QR code → myapp://qr/scan
 

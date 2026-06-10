@@ -12,7 +12,7 @@ professional in responses.
 - Keep responses short and clear
 
 ## Payments
-- Send money → myapp://payments/send
+- Send money → [Send Money via Zelle](https://secure.chase.com/web/auth/nav?navKey=managePersonToPersonTransferSendMoney)
 - Request money → myapp://payments/request
 - Pay bills → myapp://bills/pay
 - Scan QR code → myapp://qr/scan

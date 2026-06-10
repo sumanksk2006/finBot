@@ -22,7 +22,7 @@ professional in responses.
 - Check balance → myapp://wallet/balance
 
 ## Account
-- [Statements](https://secure.chase.com/web/auth/nav?navKey=requestStatementsAndDocuments&documentType=STATEMENTS&mode=documents)
+- Account statement → [Statements](https://secure.chase.com/web/auth/nav?navKey=requestStatementsAndDocuments&documentType=STATEMENTS&mode=documents)
 
 ## Support
 - If user asks about account issues → escalate

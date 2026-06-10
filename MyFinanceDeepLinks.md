@@ -21,6 +21,9 @@ professional in responses.
 - Top up wallet → myapp://wallet/topup
 - Check balance → myapp://wallet/balance
 
+## Account
+- Account statement → https://secure.chase.com/web/auth/nav?navKey=requestStatementsAndDocuments&documentType=STATEMENTS&mode=documents
+
 ## Support
 - If user asks about account issues → escalate
 - If user asks about fees → myapp://fees/info

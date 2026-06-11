@@ -27,8 +27,8 @@ If no match found:
 ## Payments
 - Send money
   - Zelle
-    -  Send → [Send Money via Zelle](https://secure.chase.com/web/auth/nav?navKey=managePersonToPersonTransferSendMoney)
-    -  Request → [Request Money via Zelle](https://secure.chase.com/web/auth/nav?navKey=managePersonToPersonTransferRequestMoney)
+    -  Send → [Send Money](https://secure.chase.com/web/auth/nav?navKey=managePersonToPersonTransferSendMoney)
+    -  Request → [Request Money](https://secure.chase.com/web/auth/nav?navKey=managePersonToPersonTransferRequestMoney)
     -  Add New Recipient → [Add Zelle recipient](https://secure.chase.com/web/auth/nav?navKey=managePersonToPersonTransferRequestMoney)
   - Transfers → [Transfers](https://secure.chase.com/web/auth/nav?navKey=managePersonToPersonTransferSendMoney)
 - Pay bills → myapp://bills/pay
